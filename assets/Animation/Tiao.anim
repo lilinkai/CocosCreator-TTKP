@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Tiao",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 5,
+  "speed": 1.5,
+  "wrapMode": 38,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9634077f-8138-4223-8cbb-abc7bf523c1c"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "75dc7f58-3d27-4abf-a44d-3f58d770a4dc"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "eeeaee36-58dd-41b6-ac86-df4fac3dea3e"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "a7a0c371-1c85-4344-b125-0bb3cfcffdc6"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "9634077f-8138-4223-8cbb-abc7bf523c1c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
